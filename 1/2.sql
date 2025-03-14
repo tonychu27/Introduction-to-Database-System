@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT customer_unique_id) AS cnt FROM customers WHERE customer_unique_id LIKE 'ff9%'; 
