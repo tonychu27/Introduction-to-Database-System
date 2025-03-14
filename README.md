@@ -1,3 +1,5 @@
+> [!CAUTION]
+> Don't copy my work or you will be caught for plagiarism 🙅‍♂️⛔️
 # Introduction-to-Database-System
 2024 Fall NYCU, Wen-Chih Peng
 
